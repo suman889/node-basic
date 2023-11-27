@@ -8,3 +8,4 @@ Any web app needs to persist data somehow, and relational databases are always a
 In these simple project, I use  **mysql2** ,  **ESModules** , and  **async/await**
 
 In this Simple project create a api for note
+--------------------------------------------------------
